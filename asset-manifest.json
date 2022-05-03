@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Covid19IndiaLive/static/css/main.a2e89083.css",
+    "main.js": "/Covid19IndiaLive/static/js/main.7be82c26.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Covid19IndiaLive/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/bg1.jpg": "/Covid19IndiaLive/static/media/bg1.6fae5e8f4f53e88c9003.jpg",
+    "static/media/fontawesome-webfont.eot": "/Covid19IndiaLive/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Covid19IndiaLive/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Covid19IndiaLive/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/coronavirus.png": "/Covid19IndiaLive/static/media/coronavirus.8c8d9607ac6878f1f375.png",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Covid19IndiaLive/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/Covid19IndiaLive/index.html",
+    "main.a2e89083.css.map": "/Covid19IndiaLive/static/css/main.a2e89083.css.map",
+    "main.7be82c26.js.map": "/Covid19IndiaLive/static/js/main.7be82c26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2e89083.css",
+    "static/js/main.7be82c26.js"
+  ]
+}
